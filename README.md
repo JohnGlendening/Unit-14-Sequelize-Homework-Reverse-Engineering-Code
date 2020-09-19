@@ -24,4 +24,4 @@ When joining a new team, you will be expected to inspect a lot of code that you 
 
 ## Link
 
-https://docs.google.com/document/d/1UM7vaLTUq_rlLMxPuG_MqUOmo79VSBpfyNGqLJU8Lok/edit
+https://docs.google.com/document/d/1bTenurjY0MTwpN0druy2OasQ3rO0LCwHzt08PvCixi4/edit?usp=sharing
